@@ -20,11 +20,11 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop Preview](./assets/images/screenshots/nft_card_1440px.png)
-![Mobile Preview](./assets/images/screenshots/nft_card_1440px.png)
+![Mobile Preview](./assets/images/screenshots/nft_card_375px.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/cellbesmanos/fm-nft-card)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
